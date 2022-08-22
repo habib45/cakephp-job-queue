@@ -1,2 +1,2 @@
-# cakephp-job-queue
+# Cakephp-job-queue
 CakePHP Queue Plugin installation guide
